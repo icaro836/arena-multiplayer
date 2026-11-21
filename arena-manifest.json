@@ -1,0 +1,9 @@
+{
+  "name": "Arena Multiplayer",
+  "short_name": "Arena",
+  "start_url": "./arena.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": []
+}
